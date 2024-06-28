@@ -341,6 +341,7 @@ Some of my repositories:
 - **[My Food Delivery App - goldengm/fooddelivery](https://github.com/goldengm/fooddelivery)**
 - **[My Angular 5+ SpringBoot - goldengm/Angular-SpringBoot-REST-JWT](https://github.com/goldengm/Angular-SpringBoot-REST-JWT)**
 - **[My Yii2 Advanced Online - goldengm/gzshop](https://github.com/goldengm/gzshop)**
+- **[A Prettier plugin for Tailwind CSS v3.0](https://github.com/goldengm/SP-prettier-plugin-tailwindcss)**
 
 ---
 
