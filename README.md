@@ -342,6 +342,7 @@ Some of my repositories:
 - **[A Prettier plugin for Tailwind CSS v3.0](https://github.com/goldengm/SP-prettier-plugin-tailwindcss)**
 - **[Health Care App - React](https://github.com/goldengm/sp_healthapp)**
 - **[Diseases Detection from Chest X-ray data - Python](https://github.com/goldengm/sp_classify_lung_diseases)**
+- **[Sports Web Store - React](https://github.com/goldengm/sports_webstore)**
 
 ---
 
