@@ -337,12 +337,14 @@ Organisations I am part of:
 Some of my repositories:
 
 - **[Food Delivery App - ReactJS](https://github.com/goldengm/fooddelivery)**
+- **[Logo Design - React+Laravel](https://github.com/goldengm/sp_logodesign)**
 - **[REST full App - Angular5, SpringBoot](https://github.com/goldengm/Angular-SpringBoot-REST-JWT)**
 - **[Online Shopping - PHP (Yii2)](https://github.com/goldengm/gzshop)**
 - **[A Prettier plugin for Tailwind CSS v3.0](https://github.com/goldengm/SP-prettier-plugin-tailwindcss)**
 - **[Health Care App - React](https://github.com/goldengm/sp_healthapp)**
 - **[Diseases Detection from Chest X-ray data - Python](https://github.com/goldengm/sp_classify_lung_diseases)**
 - **[Sports Web Store - React](https://github.com/goldengm/sports_webstore)**
+
 
 ---
 
