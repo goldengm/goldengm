@@ -341,6 +341,7 @@ Some of my repositories:
 - **[My Yii2 Advanced Online - goldengm/gzshop](https://github.com/goldengm/gzshop)**
 - **[A Prettier plugin for Tailwind CSS v3.0](https://github.com/goldengm/SP-prettier-plugin-tailwindcss)**
 - **[Women's Health App - ReactNative](https://github.com/goldengm/healthapp_lassa)**
+- **[Diseases Detection from Chest X-ray data - Python](https://github.com/goldengm/sp_classify_lung_diseases)**
 
 ---
 
