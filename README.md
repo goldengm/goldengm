@@ -338,6 +338,7 @@ Some of my repositories:
 
 - **[Food Delivery App - ReactJS](https://github.com/goldengm/fooddelivery)**
 - **[Logo Design - React+Laravel](https://github.com/goldengm/sp_logodesign)**
+- **[Blockchain Trading Bot - Python+Solidity+Web3](https://github.com/goldengm/sp_tradingbot)**
 - **[REST full App - Angular5, SpringBoot](https://github.com/goldengm/Angular-SpringBoot-REST-JWT)**
 - **[Online Shopping - PHP (Yii2)](https://github.com/goldengm/gzshop)**
 - **[A Prettier plugin for Tailwind CSS v3.0](https://github.com/goldengm/SP-prettier-plugin-tailwindcss)**
