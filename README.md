@@ -336,9 +336,9 @@ Organisations I am part of:
 
 Some of my repositories:
 
-- **[My Food Delivery App - goldengm/fooddelivery](https://github.com/goldengm/fooddelivery)**
-- **[My Angular 5+ SpringBoot - goldengm/Angular-SpringBoot-REST-JWT](https://github.com/goldengm/Angular-SpringBoot-REST-JWT)**
-- **[My Yii2 Advanced Online - goldengm/gzshop](https://github.com/goldengm/gzshop)**
+- **[Food Delivery App - ReactJS](https://github.com/goldengm/fooddelivery)**
+- **[REST full App - Angular5, SpringBoot](https://github.com/goldengm/Angular-SpringBoot-REST-JWT)**
+- **[Online Shopping - PHP (Yii2)](https://github.com/goldengm/gzshop)**
 - **[A Prettier plugin for Tailwind CSS v3.0](https://github.com/goldengm/SP-prettier-plugin-tailwindcss)**
 - **[Health Care App - React](https://github.com/goldengm/sp_healthapp)**
 - **[Diseases Detection from Chest X-ray data - Python](https://github.com/goldengm/sp_classify_lung_diseases)**
